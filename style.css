@@ -1,0 +1,21 @@
+body {
+    text-align:center;
+}
+h1 {
+    font: size 40px;;
+}
+#app {
+    background: linear-gradient(rgb(255, 255, 0) 34%,rgb(250, 0, 0));
+}
+#games {
+    background-color: blue ;
+}
+#chatbot {
+    background-color:green;
+}
+.line {
+    height:6px;
+    background-color: black;
+    width:70px;
+    margin:8px auto;
+}
